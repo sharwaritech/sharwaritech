@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="git2.png" width="100%" alt="Hallo! It's Sharwari♡"/>
+<img src="git2.png.jpg" width="100%" alt="Hallo! It's Sharwari♡"/>
 
 
 ### ♡ Computer Science Engineering | Aspiring Cybersecurity Engineer 🔒︎
