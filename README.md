@@ -18,8 +18,7 @@ I’m a Computer Science Engineering student who’s fascinated by how cybersecu
 # 📋 GitHub Stats:
 <div align="center">
 
-![](https://github-readme-stats.shion.dev/api?username=sharwaritech&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)
-![](https://streak-stats.demolab.com/?user=sharwaritech&theme=tokyonight&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api?username=sharwaritech&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false) ![](https://streak-stats.demolab.com/?user=sharwaritech&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=sharwaritech&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 </div>
 
