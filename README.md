@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="git.png" width="100%" alt="D:\Sharu"/>
+<img src="git.png" width="100%" alt="Hi, I'm Sharwari♡"/>
 
 # Hi, I'm Sharwari ♡
 
