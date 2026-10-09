@@ -5,7 +5,7 @@
 
 ### ♡ Computer Science Engineering | Aspiring Cybersecurity Engineer 🔒︎
 
-*Curious about how systems work — and even more about how they break.*
+----------------------------------------------------------------------------------------
 
 </div>
 
